@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Authentificate email doesnt exist</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>477db525-d220-4c1a-aac2-f90768a3383a</testCaseGuid>
+</TestCaseEntity>
